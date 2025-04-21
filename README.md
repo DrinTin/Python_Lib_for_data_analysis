@@ -2,7 +2,7 @@ This repository contains a course project on Python Libraries for Data Science: 
 
 It is possible to open and run the project via jupyter notebook.
 
-Project requirements Metric: R2 - coefficient of determination > 0.6 on Private Leaderboard - my 0.72792. Specify your nickname on kaggle - VkshtEsht
+Project requirements Metric: R2 - coefficient of determination > 0.6 on Private Leaderboard - my 0.72792. Specify your nickname on kaggle - DrinTin
 
 Project submission:
 
